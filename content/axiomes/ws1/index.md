@@ -14,11 +14,11 @@ Correctement utilisé, l'outil permet de configurer tous les iPad de l'établiss
 
 Workspace ONE est composé de deux modules :
 
-- Workspace ONE UEM ;
-- VMware Identity Manager.
+- Workspace ONE Unified Endpoint Management ;
+- Workspace ONE Access.
 
 Workspace ONE UEM est l'outil de gestion des terminaux qui permettra de configurer les appareils en fonction de l'utilisateur. C'est ce qui vous est habituellement proposé avec n'importe quelle solution alternative (modulo le support multi constructeurs).
 
-VMware Identity Manager est l'outil de fédération d'identité permettant à Google Suite d'authentifier automatiquement vos utilisateurs avec leurs comptes Active Directory, sans nécessité de mot de passe. Cette brique fonctionnelle est habituellement ignorée de toutes les propositions faites aux écoles (et aux entreprises).
+Workspace ONE Access est l'outil de fédération d'identité permettant à Google Suite d'authentifier automatiquement vos utilisateurs avec leurs comptes Active Directory, sans nécessité de mot de passe. Cette brique fonctionnelle est habituellement ignorée de toutes les propositions faites aux écoles (et aux entreprises).
 
 Vous en découvrirez plus sur ces sujets sur nos pages de solutions consacrées à la [gestion des terminaux](/solutions/uem/) et la [fédération d'identité](/solutions/idp/).
