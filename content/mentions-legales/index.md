@@ -8,4 +8,4 @@ Ce site web est la propriété de la société Abelionni, E.U.R.L. au capital de
 
 Vous pouvez contacter la société Abelionni au +33 9 79 94 41 64 ou à l’adresse contact@abelionni.com.
 
-Il est placé sous la responsabilité éditoriale de Yoann Gini, gérant de la société et est hébergé par la société Infomaniak Network SA domiciliée au 26 avenue de la Praille, 1227, Genève, Suisse.
+Il est placé sous la responsabilité éditoriale de Yoann Gini, gérant de la société et est hébergé par la société GitHub, Inc. domiciliée au 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA.
