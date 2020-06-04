@@ -4,3 +4,7 @@
 [submodule "themes/hugo-now-ui"]
 	path = themes/hugo-now-ui
 	url = https://github.com/cboettig/hugo-now-ui
+[submodule "public"]
+	path = public
+	url = git@github.com:educapad/educapad.github.io.git
+	branch = master
