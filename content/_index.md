@@ -16,7 +16,7 @@ La société Abelionni disposant d'une expérience hors du commun dans le domain
 
 Cependant, quelques articles spécialisés mélangés à d'autres n'étaient pas suffisants. Ainsi est né EducaPad.
 
-EudcaPad est un site dédié à la diffusion d'une connaissance propre à Abelionni, sur la création et la gestion de système d'information éducatif axé autour du cartable numérique et impliquant un iPad par individus.
+EducaPad est un site dédié à la diffusion d'une connaissance propre à Abelionni, sur la création et la gestion de système d'information éducatif axé autour du cartable numérique et impliquant un iPad par individus.
 
 Un certain nombre de choix initiaux comme le choix de l'iPad ou de VMware Workspace ONE sont faits dans l'optique de nos publications et présentés dans la section Axiomes. Ces choix, comme le nom de la section indique, sont issus de notre expérience et sont pour nous des évidences indiscutables pour la réussite de tout projet.
 
