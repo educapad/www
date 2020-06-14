@@ -6,9 +6,3 @@ workflows:
     jobs:
       - hugo/build:
           html-proofer: true
-      - deploy:
-          filters:
-            branches:
-              only: master
-          requires:
-            - hugo/build
