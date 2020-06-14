@@ -14,6 +14,9 @@ jobs:
       - run: 
           name: Generate Static Website
           command: hugo -v -s . -d public
+      - add_ssh_keys:
+          fingerprints:
+            - "81:c5:6c:be:bc:a8:41:77:9f:62:92:72:a1:48:6d:6d"
       - run:
           name: Deploy Static Website to gh-pages branch
           command: gh-pages --dist public
