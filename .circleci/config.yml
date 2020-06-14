@@ -1,0 +1,15 @@
+version: 2.1
+jobs:
+  build:
+    docker:
+      - image: ygini/hugo
+    steps:
+      - checkout
+      - run: git submodule sync
+      - run: git submodule update --init
+      - run: 
+          name: Generate Static Website
+          command: hugo -v -s . -d public
+      - run: 
+          name: Check Static Website
+          command: ls -lR 
