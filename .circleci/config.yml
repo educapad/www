@@ -1,7 +1,7 @@
 version: 2.1
 
 jobs:
-  buid:
+  build:
       docker:
         - image: klakegg/hugo
       steps:
