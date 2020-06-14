@@ -4,10 +4,10 @@ jobs:
     docker:
       - image: ygini/hugo
     steps:
+      - checkout
       - run:
           name: Set git identity
           command: git config user.email "circleci@educapad.fr" && git config user.name "Circle CI Engine"
-      - checkout
       - run:
           name: Get subomdules
           command: git submodule sync && git submodule update --init
