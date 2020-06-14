@@ -6,6 +6,6 @@ jobs:
         - image: klakegg/hugo
       steps:
         - checkout
-        - run
-          name: Build
+        - run:
+          name: Generate Static Website
           command: hugo -v -s . -d public
