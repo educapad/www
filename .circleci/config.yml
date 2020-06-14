@@ -10,4 +10,4 @@ jobs:
           command: hugo -v -s . -d public
       - run: 
           name: Check Static Website
-          command: ls -lR public
+          command: ls -lR 
