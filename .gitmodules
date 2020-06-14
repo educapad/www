@@ -8,3 +8,6 @@
 	path = public
 	url = git@github.com:educapad/educapad.github.io.git
 	branch = master
+[submodule "themes/educapad-hugo-ui"]
+	path = themes/educapad-hugo-ui
+	url = git@github.com:educapad/educapad-hugo-ui.git

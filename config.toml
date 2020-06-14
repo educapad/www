@@ -1,4 +1,4 @@
-theme = "hugo-now-ui"
+theme = "educapad-hugo-ui"
 baseurl = "https://www.educapad.fr/"
 languageCode = "fr-fr"
 title = "EducaPad"
