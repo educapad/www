@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solutions on EducaPad</title>
+    <link>https://www.educapad.fr/solutions/</link>
+    <description>Recent content in Solutions on EducaPad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sun, 25 Nov 2018 18:01:29 +0100</lastBuildDate>
+    
+	<atom:link href="https://www.educapad.fr/solutions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Impression</title>
+      <link>https://www.educapad.fr/solutions/impression/</link>
+      <pubDate>Sun, 25 Nov 2018 18:01:29 +0100</pubDate>
+      
+      <guid>https://www.educapad.fr/solutions/impression/</guid>
+      <description>La gestion des imprimantes est toujours un calvaire, que ce soit en milieu éducatif, professionnel ou même à la maison.
+Si les initiatives zéro papier sont de plus en plus fréquentes, il est rare de voir qui que ce soit s&amp;rsquo;en passer totalement.
+Aussi, dans le cadre d&amp;rsquo;un projet de cartable numérique il est capital de prévoir la gestion des imprimantes de manière efficace.
+La solution que nous recommandons est PaperCut.</description>
+    </item>
+    
+    <item>
+      <title>Distribution</title>
+      <link>https://www.educapad.fr/solutions/distribution/</link>
+      <pubDate>Sun, 25 Nov 2018 17:49:39 +0100</pubDate>
+      
+      <guid>https://www.educapad.fr/solutions/distribution/</guid>
+      <description>La méthode de distribution que nous recommandons est peut-être la plus contre-intuitive : laissez faire les profs et élèves chez eux !
+Un déploiement d&amp;rsquo;iPad correctement mené permet de garantir que, quel que soit le lieu d&amp;rsquo;activation, l&amp;rsquo;iPad sera automatiquement enrôlé au gestionnaire de terminaux.
+Suite à l&amp;rsquo;activation de la tablette, les comptes e-mails, applications et livres seront téléchargés, consommant ainsi grandement la bande passante Internet.
+S&amp;rsquo;il est possible de mettre des serveurs de cache dans vos établissements pour améliorer les téléchargements en lien avec l&amp;rsquo;App Store, ce n&amp;rsquo;est pas le cas pour l&amp;rsquo;ensemble des autres communications chiffrées que vous rencontrerez sur Internet.</description>
+    </item>
+    
+    <item>
+      <title>Infrastructure</title>
+      <link>https://www.educapad.fr/solutions/infra/</link>
+      <pubDate>Sun, 25 Nov 2018 17:41:08 +0100</pubDate>
+      
+      <guid>https://www.educapad.fr/solutions/infra/</guid>
+      <description>Une infrastructure informatique robuste est la condition préalable à la réussite d&amp;rsquo;un projet de cartable numérique.
+Les tablettes et la gestion de masse sont les points les plus simples de ce genre de projet bien qu&amp;rsquo;ils concentrent habituellement toute l&amp;rsquo;attention au détriment de l&amp;rsquo;infrastructure.
+Il est vital de disposer d&amp;rsquo;une architecture fondamentalement orientée vers la performance, la sécurité et la montée en charge.
+Réseau filaire Le réseau de l&amp;rsquo;école est un fondement des plus sensible, il doit être conçu pour garantir la sécurité des élèves et l&amp;rsquo;isolation des flux (un élève n&amp;rsquo;a pas à pouvoir joindre les serveurs administratifs).</description>
+    </item>
+    
+    <item>
+      <title>Fédération d&#39;identité</title>
+      <link>https://www.educapad.fr/solutions/idp/</link>
+      <pubDate>Sun, 25 Nov 2018 17:37:31 +0100</pubDate>
+      
+      <guid>https://www.educapad.fr/solutions/idp/</guid>
+      <description>La fédération d&amp;rsquo;identité est le service assuré par Workspace ONE Access. Le principe est simple : un service tiers se repose sur un service sous votre contrôle pour identifier vos utilisateurs.
+Par exemple, lorsque l&amp;rsquo;utilisateur cherche à accéder à ses e-mails ou ses documents Google Suite depuis son iPad, il doit être authentifié. S&amp;rsquo;il ne l&amp;rsquo;est pas déjà, Google redirigera l&amp;rsquo;utilisateur vers WS1 Access afin d&amp;rsquo;être authentifié. Si la tablette est gérée par l&amp;rsquo;école, WS1 Access découvrira automatiquement l&amp;rsquo;identité de l&amp;rsquo;utilisateur et reniera la réponse à Google.</description>
+    </item>
+    
+    <item>
+      <title>Gestionnaire de terminaux</title>
+      <link>https://www.educapad.fr/solutions/uem/</link>
+      <pubDate>Sun, 25 Nov 2018 17:37:27 +0100</pubDate>
+      
+      <guid>https://www.educapad.fr/solutions/uem/</guid>
+      <description>Le gestionnaire de terminaux recommandé est Workspace ONE UEM de VMware (précédemment nommé AirWatch). Il permet un contrôle poussé sur l&amp;rsquo;ensemble des terminaux du marché.
+Ainsi, vous pourrez contrôler efficacement vos iPad, mais aussi les éventuels iPhone et téléphone Android que vous auriez pour l&amp;rsquo;équipe administrative ou encore des tablettes de domotique dans les salles de réunion.
+Workspace ONE UEM dispose d&amp;rsquo;un autre avantage majeur sur ses concurrents : il est multi organisation.</description>
+    </item>
+    
+    <item>
+      <title>Service d&#39;annuaire</title>
+      <link>https://www.educapad.fr/solutions/annuaire/</link>
+      <pubDate>Sun, 25 Nov 2018 17:35:07 +0100</pubDate>
+      
+      <guid>https://www.educapad.fr/solutions/annuaire/</guid>
+      <description>Le service d&amp;rsquo;annuaire est la pierre angulaire de tout système d&amp;rsquo;information. Il doit être alimenté par la base de donnée élève ainsi que le système d&amp;rsquo;information des ressources humaines afin de contenir l&amp;rsquo;ensemble des identités nécessaire au bon fonctionnement de l&amp;rsquo;établissement.
+La solution recommandé, malgré son prix, est l&amp;rsquo;Active Directory de Microsoft. Cette solution est la plus robuste du marché et est très largement supporté par les différents éditeurs logiciels auxquels une école peut faire face.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EducaPad</title>
+    <link>https://www.educapad.fr/</link>
+    <description>Recent content on EducaPad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sun, 25 Nov 2018 10:04:08 +0100</lastBuildDate>
+    
+	<atom:link href="https://www.educapad.fr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Impression</title>
+      <link>https://www.educapad.fr/solutions/impression/</link>
+      <pubDate>Sun, 25 Nov 2018 18:01:29 +0100</pubDate>
+      
+      <guid>https://www.educapad.fr/solutions/impression/</guid>
+      <description>La gestion des imprimantes est toujours un calvaire, que ce soit en milieu éducatif, professionnel ou même à la maison.
+Si les initiatives zéro papier sont de plus en plus fréquentes, il est rare de voir qui que ce soit s&amp;rsquo;en passer totalement.
+Aussi, dans le cadre d&amp;rsquo;un projet de cartable numérique il est capital de prévoir la gestion des imprimantes de manière efficace.
+La solution que nous recommandons est PaperCut.</description>
+    </item>
+    
+    <item>
+      <title>Distribution</title>
+      <link>https://www.educapad.fr/solutions/distribution/</link>
+      <pubDate>Sun, 25 Nov 2018 17:49:39 +0100</pubDate>
+      
+      <guid>https://www.educapad.fr/solutions/distribution/</guid>
+      <description>La méthode de distribution que nous recommandons est peut-être la plus contre-intuitive : laissez faire les profs et élèves chez eux !
+Un déploiement d&amp;rsquo;iPad correctement mené permet de garantir que, quel que soit le lieu d&amp;rsquo;activation, l&amp;rsquo;iPad sera automatiquement enrôlé au gestionnaire de terminaux.
+Suite à l&amp;rsquo;activation de la tablette, les comptes e-mails, applications et livres seront téléchargés, consommant ainsi grandement la bande passante Internet.
+S&amp;rsquo;il est possible de mettre des serveurs de cache dans vos établissements pour améliorer les téléchargements en lien avec l&amp;rsquo;App Store, ce n&amp;rsquo;est pas le cas pour l&amp;rsquo;ensemble des autres communications chiffrées que vous rencontrerez sur Internet.</description>
+    </item>
+    
+    <item>
+      <title>Workspace ONE</title>
+      <link>https://www.educapad.fr/axiomes/ws1/</link>
+      <pubDate>Sun, 25 Nov 2018 17:42:25 +0100</pubDate>
+      
+      <guid>https://www.educapad.fr/axiomes/ws1/</guid>
+      <description>Workspace ONE de VMware est un outil aux multiples propriétés, il permet tout à la fois de gérer les terminaux Apple, Windows et Google de l&amp;rsquo;école, tout en offrant un service de gestion d&amp;rsquo;identité tourné vers les services en ligne comme Google Suite.
+Son intégration dans l&amp;rsquo;environnement éducatif permet une expérience utilisateur sans pareil pour tout logiciel moderne.
+Correctement utilisé, l&amp;rsquo;outil permet de configurer tous les iPad de l&amp;rsquo;établissement pour la personne associé à l&amp;rsquo;équipement (applications, comptes e-mail, restrictions…) et, pour les applications et services e-mail compatibles, d&amp;rsquo;authentifier automatiquement l&amp;rsquo;utilisateur.</description>
+    </item>
+    
+    <item>
+      <title>Infrastructure</title>
+      <link>https://www.educapad.fr/solutions/infra/</link>
+      <pubDate>Sun, 25 Nov 2018 17:41:08 +0100</pubDate>
+      
+      <guid>https://www.educapad.fr/solutions/infra/</guid>
+      <description>Une infrastructure informatique robuste est la condition préalable à la réussite d&amp;rsquo;un projet de cartable numérique.
+Les tablettes et la gestion de masse sont les points les plus simples de ce genre de projet bien qu&amp;rsquo;ils concentrent habituellement toute l&amp;rsquo;attention au détriment de l&amp;rsquo;infrastructure.
+Il est vital de disposer d&amp;rsquo;une architecture fondamentalement orientée vers la performance, la sécurité et la montée en charge.
+Réseau filaire Le réseau de l&amp;rsquo;école est un fondement des plus sensible, il doit être conçu pour garantir la sécurité des élèves et l&amp;rsquo;isolation des flux (un élève n&amp;rsquo;a pas à pouvoir joindre les serveurs administratifs).</description>
+    </item>
+    
+    <item>
+      <title>Fédération d&#39;identité</title>
+      <link>https://www.educapad.fr/solutions/idp/</link>
+      <pubDate>Sun, 25 Nov 2018 17:37:31 +0100</pubDate>
+      
+      <guid>https://www.educapad.fr/solutions/idp/</guid>
+      <description>La fédération d&amp;rsquo;identité est le service assuré par Workspace ONE Access. Le principe est simple : un service tiers se repose sur un service sous votre contrôle pour identifier vos utilisateurs.
+Par exemple, lorsque l&amp;rsquo;utilisateur cherche à accéder à ses e-mails ou ses documents Google Suite depuis son iPad, il doit être authentifié. S&amp;rsquo;il ne l&amp;rsquo;est pas déjà, Google redirigera l&amp;rsquo;utilisateur vers WS1 Access afin d&amp;rsquo;être authentifié. Si la tablette est gérée par l&amp;rsquo;école, WS1 Access découvrira automatiquement l&amp;rsquo;identité de l&amp;rsquo;utilisateur et reniera la réponse à Google.</description>
+    </item>
+    
+    <item>
+      <title>Gestionnaire de terminaux</title>
+      <link>https://www.educapad.fr/solutions/uem/</link>
+      <pubDate>Sun, 25 Nov 2018 17:37:27 +0100</pubDate>
+      
+      <guid>https://www.educapad.fr/solutions/uem/</guid>
+      <description>Le gestionnaire de terminaux recommandé est Workspace ONE UEM de VMware (précédemment nommé AirWatch). Il permet un contrôle poussé sur l&amp;rsquo;ensemble des terminaux du marché.
+Ainsi, vous pourrez contrôler efficacement vos iPad, mais aussi les éventuels iPhone et téléphone Android que vous auriez pour l&amp;rsquo;équipe administrative ou encore des tablettes de domotique dans les salles de réunion.
+Workspace ONE UEM dispose d&amp;rsquo;un autre avantage majeur sur ses concurrents : il est multi organisation.</description>
+    </item>
+    
+    <item>
+      <title>Service d&#39;annuaire</title>
+      <link>https://www.educapad.fr/solutions/annuaire/</link>
+      <pubDate>Sun, 25 Nov 2018 17:35:07 +0100</pubDate>
+      
+      <guid>https://www.educapad.fr/solutions/annuaire/</guid>
+      <description>Le service d&amp;rsquo;annuaire est la pierre angulaire de tout système d&amp;rsquo;information. Il doit être alimenté par la base de donnée élève ainsi que le système d&amp;rsquo;information des ressources humaines afin de contenir l&amp;rsquo;ensemble des identités nécessaire au bon fonctionnement de l&amp;rsquo;établissement.
+La solution recommandé, malgré son prix, est l&amp;rsquo;Active Directory de Microsoft. Cette solution est la plus robuste du marché et est très largement supporté par les différents éditeurs logiciels auxquels une école peut faire face.</description>
+    </item>
+    
+    <item>
+      <title>Google Suite</title>
+      <link>https://www.educapad.fr/axiomes/gsuite/</link>
+      <pubDate>Sun, 25 Nov 2018 16:10:05 +0100</pubDate>
+      
+      <guid>https://www.educapad.fr/axiomes/gsuite/</guid>
+      <description>Pour qu&amp;rsquo;un projet de cartable numérique réussisse, il est nécessaire de disposer d&amp;rsquo;outils numériques adaptés.
+Dans la liste impératives des outils nécessaires aux enseignants, élèves ainsi qu&amp;rsquo;au personnel administratif se trouve :
+ un e-mail ; une suite bureautique (édition de texte, tableur, diaporama) ; un espace de stockage personnel synchronisé ; des espaces de stockage commun à la demande et synchronisé ; un calendrier personnel ; des calendriers partagés.  L&amp;rsquo;e-mail est nécessaire que ce soit pour qu&amp;rsquo;un élève rende un devoir à un prof, qu&amp;rsquo;un élève ou un prof accède à un service pédagogique en ligne, que l&amp;rsquo;administration reçoive les échanges avec leurs prestataires, tous nécessient un e-mail géré par l&amp;rsquo;établissement, et en fonction de leur rôle, cet e-mail doit disposer de plus ou moins de restrictions.</description>
+    </item>
+    
+    <item>
+      <title>Vision globale</title>
+      <link>https://www.educapad.fr/axiomes/vision/</link>
+      <pubDate>Sun, 25 Nov 2018 15:59:47 +0100</pubDate>
+      
+      <guid>https://www.educapad.fr/axiomes/vision/</guid>
+      <description>Pour la réussite d’un projet de cartable numérique, il est nécessaire que l’ensemble des acteurs de l’école soient impliqués et utilisateurs de la solution mise en œuvre. Élèves, enseignants, mais aussi surveillants, documentalistes, personnels administratifs et direction.
+Un rassemblement autour d’une manière de travailler unique permet une réduction du coût de possession de l’infrastructure nécessaire du fait de la mutualisation et donne un message clair aux équipes pédagogiques sur l’implication de la direction.</description>
+    </item>
+    
+    <item>
+      <title>iPad</title>
+      <link>https://www.educapad.fr/axiomes/ipad/</link>
+      <pubDate>Sun, 25 Nov 2018 15:55:07 +0100</pubDate>
+      
+      <guid>https://www.educapad.fr/axiomes/ipad/</guid>
+      <description>Dans les axiomes de départ EducaPad, il y a les iPad d’Apple. Ce choix n’est pas uniquement lié au partenariat qui existe entre Apple et Abelionni, la société éditrice de ce site web.
+Apple s’est illustré depuis des années à la fois dans :
+ les solutions modernes et efficaces apportées au monde de l’éducation ; sa capacité à offrir des solutions de gestion de masse des équipements à moindre coût ; sa bibliothèque applicative native et tierce partie spécialement pensée pour l’éducation.</description>
+    </item>
+    
+    <item>
+      <title>Mentions légales</title>
+      <link>https://www.educapad.fr/mentions-legales/</link>
+      <pubDate>Sun, 25 Nov 2018 10:04:08 +0100</pubDate>
+      
+      <guid>https://www.educapad.fr/mentions-legales/</guid>
+      <description>Ce site web est la propriété de la société Abelionni, E.U.R.L. au capital de 6 000 € enregistré au R.C.S. d’Aix-en-Provence sous le numéro 814 274 445, disposant du numéro de TVA intracommunautaire FR82814274445, du numéro DUNS 267572437 et domicilié au 12 B Chemin de la bergerie, 13740, Le Rove, France.
+Vous pouvez contacter la société Abelionni au +33 9 79 94 41 64 ou à l’adresse contact@abelionni.com.
+Il est placé sous la responsabilité éditoriale de Yoann Gini, gérant de la société et est hébergé par la société GitHub, Inc.</description>
+    </item>
+    
+  </channel>
+</rss>

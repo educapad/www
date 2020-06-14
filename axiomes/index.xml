@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Axiomes on EducaPad</title>
+    <link>https://www.educapad.fr/axiomes/</link>
+    <description>Recent content in Axiomes on EducaPad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sun, 25 Nov 2018 17:42:25 +0100</lastBuildDate>
+    
+	<atom:link href="https://www.educapad.fr/axiomes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Workspace ONE</title>
+      <link>https://www.educapad.fr/axiomes/ws1/</link>
+      <pubDate>Sun, 25 Nov 2018 17:42:25 +0100</pubDate>
+      
+      <guid>https://www.educapad.fr/axiomes/ws1/</guid>
+      <description>Workspace ONE de VMware est un outil aux multiples propriétés, il permet tout à la fois de gérer les terminaux Apple, Windows et Google de l&amp;rsquo;école, tout en offrant un service de gestion d&amp;rsquo;identité tourné vers les services en ligne comme Google Suite.
+Son intégration dans l&amp;rsquo;environnement éducatif permet une expérience utilisateur sans pareil pour tout logiciel moderne.
+Correctement utilisé, l&amp;rsquo;outil permet de configurer tous les iPad de l&amp;rsquo;établissement pour la personne associé à l&amp;rsquo;équipement (applications, comptes e-mail, restrictions…) et, pour les applications et services e-mail compatibles, d&amp;rsquo;authentifier automatiquement l&amp;rsquo;utilisateur.</description>
+    </item>
+    
+    <item>
+      <title>Google Suite</title>
+      <link>https://www.educapad.fr/axiomes/gsuite/</link>
+      <pubDate>Sun, 25 Nov 2018 16:10:05 +0100</pubDate>
+      
+      <guid>https://www.educapad.fr/axiomes/gsuite/</guid>
+      <description>Pour qu&amp;rsquo;un projet de cartable numérique réussisse, il est nécessaire de disposer d&amp;rsquo;outils numériques adaptés.
+Dans la liste impératives des outils nécessaires aux enseignants, élèves ainsi qu&amp;rsquo;au personnel administratif se trouve :
+ un e-mail ; une suite bureautique (édition de texte, tableur, diaporama) ; un espace de stockage personnel synchronisé ; des espaces de stockage commun à la demande et synchronisé ; un calendrier personnel ; des calendriers partagés.  L&amp;rsquo;e-mail est nécessaire que ce soit pour qu&amp;rsquo;un élève rende un devoir à un prof, qu&amp;rsquo;un élève ou un prof accède à un service pédagogique en ligne, que l&amp;rsquo;administration reçoive les échanges avec leurs prestataires, tous nécessient un e-mail géré par l&amp;rsquo;établissement, et en fonction de leur rôle, cet e-mail doit disposer de plus ou moins de restrictions.</description>
+    </item>
+    
+    <item>
+      <title>Vision globale</title>
+      <link>https://www.educapad.fr/axiomes/vision/</link>
+      <pubDate>Sun, 25 Nov 2018 15:59:47 +0100</pubDate>
+      
+      <guid>https://www.educapad.fr/axiomes/vision/</guid>
+      <description>Pour la réussite d’un projet de cartable numérique, il est nécessaire que l’ensemble des acteurs de l’école soient impliqués et utilisateurs de la solution mise en œuvre. Élèves, enseignants, mais aussi surveillants, documentalistes, personnels administratifs et direction.
+Un rassemblement autour d’une manière de travailler unique permet une réduction du coût de possession de l’infrastructure nécessaire du fait de la mutualisation et donne un message clair aux équipes pédagogiques sur l’implication de la direction.</description>
+    </item>
+    
+    <item>
+      <title>iPad</title>
+      <link>https://www.educapad.fr/axiomes/ipad/</link>
+      <pubDate>Sun, 25 Nov 2018 15:55:07 +0100</pubDate>
+      
+      <guid>https://www.educapad.fr/axiomes/ipad/</guid>
+      <description>Dans les axiomes de départ EducaPad, il y a les iPad d’Apple. Ce choix n’est pas uniquement lié au partenariat qui existe entre Apple et Abelionni, la société éditrice de ce site web.
+Apple s’est illustré depuis des années à la fois dans :
+ les solutions modernes et efficaces apportées au monde de l’éducation ; sa capacité à offrir des solutions de gestion de masse des équipements à moindre coût ; sa bibliothèque applicative native et tierce partie spécialement pensée pour l’éducation.</description>
+    </item>
+    
+  </channel>
+</rss>
