@@ -1,11 +1,10 @@
 version: 2.1
-
 jobs:
   build:
-      docker:
-        - image: klakegg/hugo
-      steps:
-        - checkout
-        - run:
+    docker:
+      - image: klakegg/hugo
+    steps:
+      - checkout
+      - run: 
           name: Generate Static Website
           command: hugo -v -s . -d public
