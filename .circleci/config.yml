@@ -4,12 +4,16 @@ jobs:
     docker:
       - image: ygini/hugo
     steps:
+      - run:
+          name: Set git identity
+          command: git config user.email "circleci@educapad.fr" && git config user.name "Circle CI Engine"
       - checkout
-      - run: git submodule sync
-      - run: git submodule update --init
+      - run:
+          name: Get subomdules
+          command: git submodule sync && git submodule update --init
       - run: 
           name: Generate Static Website
           command: hugo -v -s . -d public
-      - run: 
-          name: Check Static Website
-          command: ls -lR 
+      - run:
+          name: Deploy Static Website to gh-pages branch
+          command: gh-pages --dist public
