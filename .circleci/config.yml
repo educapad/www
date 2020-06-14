@@ -5,6 +5,8 @@ jobs:
       - image: ygini/hugo
     steps:
       - checkout
+      - run: git submodule sync
+      - run: git submodule update --init
       - run: 
           name: Generate Static Website
           command: hugo -v -s . -d public
