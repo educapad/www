@@ -19,4 +19,4 @@ jobs:
             - "81:c5:6c:be:bc:a8:41:77:9f:62:92:72:a1:48:6d:6d"
       - run:
           name: Deploy Static Website to gh-pages branch
-          command: gh-pages --dist public
+          command: gh-pages --dotfiles --message "[skip ci] Circle CI Publication" --dist public
